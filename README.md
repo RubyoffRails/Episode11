@@ -29,6 +29,7 @@ Show Links
 * Testing with Sinatra: http://www.sinatrarb.com/testing.html
 * Rack/Test: https://github.com/brynary/rack-test
 * RABL: https://github.com/nesquena/rabl
+* HTTPClient (app used to visualize HTTP calls): [Direct](http://ditchnet.org/httpclient/) and on [App Store](http://itunes.apple.com/us/app/http-client/id418138339?mt=12)
 
 Copyright
 ---------
