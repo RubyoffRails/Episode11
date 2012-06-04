@@ -1,0 +1,14 @@
+JSON -- Testing a web ... sinatra
+
+javascript object notation
+
+car --> name: "Ford", year: "1997"
+
+{ :car => {:name => "Ford", :year => 1997}}
+
+{
+  "car": {
+    name: "Ford",
+    year: 1997
+  }
+}
