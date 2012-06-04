@@ -23,6 +23,13 @@ Eagle Level
 2. If I pass in the "code" as a parameter to get "/", then it only returns _my_ logs
 3. Make the code be required on the post. Return a 401 error code if it is not present
 
+Show Links
+----------
+
+* Testing with Sinatra: http://www.sinatrarb.com/testing.html
+* Rack/Test: https://github.com/brynary/rack-test
+* RABL: https://github.com/nesquena/rabl
+
 Copyright
 ---------
 
